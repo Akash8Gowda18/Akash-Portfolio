@@ -1,5 +1,7 @@
+ // eslint-disable-next-line
 import { Link as LinkR } from 'react-router-dom';
 import styled from 'styled-components';
+ // eslint-disable-next-line
 import _default from '../../themes/default';
 
 export const Nav = styled.div`
