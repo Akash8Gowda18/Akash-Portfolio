@@ -230,12 +230,12 @@ export const projects = [
     title: "Portfolio",
     description:
       "I crafted a dynamic and visually engaging online portfolio, showcasing my diverse project experiences, including web development and design work. This portfolio not only highlights my technical proficiency in modern web technologies but also demonstrates my creative approach to solving user experience challenges across various digital platforms.",
-    image:
-      "",
+     image:
+      "https://github.com/Akash8Gowda18/Akash-Portfolio/blob/main/public/Akash%20Portfolio.png?raw=true",
     tags: ["React Js", "CSS"],
     category: "web app",
-    github: "",
-    webapp: "",
+    github: "https://github.com/Akash8Gowda18/Akash-Portfolio.git",
+    webapp: "https://akashportfolio8.netlify.app",
   },
   
 ];
