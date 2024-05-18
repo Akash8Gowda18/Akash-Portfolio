@@ -178,6 +178,18 @@ export const education = [
   },
 ];
 
+export const certification = [
+  {
+   id:4,
+   img: "https://github.com/Akash8Gowda18/Akash-Portfolio/blob/c8baf9296ba3bbb56d95cd5846a88430e2a51947/public/Tap%20Certificate.png?raw=true",
+   title:"Full Stack Web Development From Tap Academy", 
+   description: 
+   "I am proud to have earned my certification in web development from Tap Academy, where I gained proficiency in Java, SQL, HTML, CSS, and JavaScript. Equipped with these essential skills, I am ready to contribute to innovative web projects and create engaging online experiences. ",
+   
+  },
+
+]
+
 export const projects = [
   {
     id: 4,
