@@ -88,10 +88,11 @@ function Footer() {
         <Logo>Akash H D</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
-          <NavLink href="#skills">Skills</NavLink>
-          <NavLink href="#experience">Experience</NavLink>
-          <NavLink href="#projects">Projects</NavLink>
-          <NavLink href="#education">Education</NavLink>
+          <NavLink href='#education'>Education</NavLink>
+          <NavLink href='#skills'>Skills</NavLink>
+          <NavLink href='#certification'>Certifcates</NavLink>
+          <NavLink href='#projects'>Projects</NavLink>
+          <NavLink href='#experience'>Experience</NavLink>
         </Nav>
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
