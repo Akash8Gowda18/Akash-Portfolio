@@ -9,6 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Akash8Gowda18",
   resume:"https://drive.google.com/file/d/1hLTp4VGLLwXiILMjPpLJ7LlAMo78QLUB/view?usp=drivesdk",
+  certificate: "https://drive.google.com/drive/folders/1lvEWPOWxIQ1es0THvA-Y-FaY8j8hVz2s",
   linkedin: "https://www.linkedin.com/in/akash-h-d-139471167?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9ZuyPuSuTPuWQ14IGw1mvg%3D%3D",
 };
 
