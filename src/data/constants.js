@@ -10,7 +10,7 @@ export const Bio = {
   github: "https://github.com/Akash8Gowda18",
   resume:"https://drive.google.com/file/d/1hLTp4VGLLwXiILMjPpLJ7LlAMo78QLUB/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/akash-h-d-139471167?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9ZuyPuSuTPuWQ14IGw1mvg%3D%3D",
- 
+  certificate: "https://drive.google.com/drive/folders/1lvEWPOWxIQ1es0THvA-Y-FaY8j8hVz2s",
 };
 
 export const skills = [
