@@ -125,13 +125,15 @@ export const experiences = [
   {
     id: 1,
     img: "",
-    role: "Consultant Service Desk",
+    role: "Consultant",
     company: "Tenotree",
     date: "Sep 2023",
     desc: "Working on Network operation center. Monitoring the OpCos Applications, Billings, company project dashboard etc .",
     skills: [
       "PHP",
       "Mysql",
+      "Fresh Service Ticketing Tool",
+      "Rancher, Manaports(View)",
           ],
   
   },
